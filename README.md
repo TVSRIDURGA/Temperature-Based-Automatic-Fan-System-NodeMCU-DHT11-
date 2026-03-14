@@ -78,6 +78,7 @@ Steps used in the project:
 
 1️⃣ Blynk Dashboard Screenshot
 The Blynk IoT platform allows monitoring sensor data from both desktop (web dashboard) and mobile application.
+![image](https://github.com/user/repo/assets/....)
 The screenshots below show real-time temperature and humidity values received from the NodeMCU device.
 
 💻 Laptop Dashboard (Blynk Web Console)
