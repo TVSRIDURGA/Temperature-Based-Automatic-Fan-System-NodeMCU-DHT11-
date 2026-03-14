@@ -95,6 +95,7 @@ The serial monitor confirms that the ESP8266 successfully connects to the Blynk 
 3️⃣ Continuous Sensor Readings
 🔄 Continuous Sensor Data
 The NodeMCU continuously reads temperature and humidity values from the DHT11 sensor and prints them to the serial monitor.
+![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/0c53effeaa6e81b2c3d8525b8e6fb26b11a2b0c3/Continuous%20Sensor%20Readings.jpeg)
 
 
 
