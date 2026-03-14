@@ -83,3 +83,4 @@ The screenshots below show real-time temperature and humidity values received fr
 💻 Laptop Dashboard (Blynk Web Console)
 This dashboard is accessed through the Blynk web console, where users can monitor temperature and humidity values from a laptop or desktop browser.
 
+
