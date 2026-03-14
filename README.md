@@ -97,5 +97,10 @@ The serial monitor confirms that the ESP8266 successfully connects to the Blynk 
 The NodeMCU continuously reads temperature and humidity values from the DHT11 sensor and prints them to the serial monitor.
 ![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/0c53effeaa6e81b2c3d8525b8e6fb26b11a2b0c3/Continuous%20Sensor%20Readings.jpeg)
 
+4️⃣ Arduino Code Screenshot 
+💻 Arduino Source Code
+The following code connects the ESP8266 to WiFi and the Blynk platform, reads temperature and humidity from the DHT11 sensor, and controls the fan through a relay module.
+![image]()
+
 
 
