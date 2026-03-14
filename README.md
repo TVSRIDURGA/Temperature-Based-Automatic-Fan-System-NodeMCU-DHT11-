@@ -116,6 +116,12 @@ iot-temperature-humidity-monitoring
 │   ├── arduino_output1.jpg
 │   └── arduino_output2.jpg
 
+🎥 Project Demo
+
+[Watch the demo video](demo/project_demo.mp4)
+
+
+
 
 
 
