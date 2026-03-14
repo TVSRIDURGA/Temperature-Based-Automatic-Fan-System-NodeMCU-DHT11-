@@ -104,5 +104,19 @@ The following code connects the ESP8266 to WiFi and the Blynk platform, reads te
 ![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/8bbb4ddfd23e25ab81740623a17682b41ea31bef/2nd.jpeg)
 ![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/bd7af59f651622f56642b3a021f815fd78683100/3rd.jpeg)
 
+📂 Project Structure
+iot-temperature-humidity-monitoring
+│
+├── README.md
+├── code
+│   └── temperature_humidity_model.ino
+│
+├── images
+│   ├── blynk_dashboard.jpg
+│   ├── arduino_output1.jpg
+│   └── arduino_output2.jpg
+
+
+
 
 
