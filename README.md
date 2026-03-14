@@ -87,5 +87,8 @@ This dashboard is accessed through the Blynk web console, where users can monito
 📱 Mobile Dashboard ScreenShot 
 This dashboard is accessed through the Blynk web console, where users can monitor temperature and humidity values from a mobile  phone![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/992e6b7300d932c107e8b1313970271e7d06ee26/Mobile%20Dashboard%20(Blynk%20App)(SS).jpeg)
 
+2️⃣ Arduino Serial Monitor (First Output)
+
+
 
 
