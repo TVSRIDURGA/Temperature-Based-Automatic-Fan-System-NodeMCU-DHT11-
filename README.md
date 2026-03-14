@@ -88,7 +88,8 @@ This dashboard is accessed through the Blynk web console, where users can monito
 This dashboard is accessed through the Blynk web console, where users can monitor temperature and humidity values from a mobile  phone![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/992e6b7300d932c107e8b1313970271e7d06ee26/Mobile%20Dashboard%20(Blynk%20App)(SS).jpeg)
 
 2️⃣ Arduino Serial Monitor (First Output)
-
-
+![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/2a8efe1e3fab8e8aa8dede151caccc4f43cd88d5/Blynk%20connedted%20Successfully.jpeg)
+🖥️ Arduino Serial Monitor Output
+The serial monitor confirms that the ESP8266 successfully connects to the Blynk cloud and reads sensor values.
 
 
