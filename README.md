@@ -101,7 +101,7 @@ The NodeMCU continuously reads temperature and humidity values from the DHT11 se
 💻 Arduino Source Code
 The following code connects the ESP8266 to WiFi and the Blynk platform, reads temperature and humidity from the DHT11 sensor, and controls the fan through a relay module.
 ![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/64304be8745d88b99c18a92a17333cdddb39bbd9/1st.jpeg)
-![image]()
+![image](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/8bbb4ddfd23e25ab81740623a17682b41ea31bef/2nd.jpeg)
 ![image]()
 
 
