@@ -118,7 +118,7 @@ iot-temperature-humidity-monitoring
 
 🎥 Project Demo
 
-[Watch the demo video](demo/project_demo.mp4)
+[Watch the demo video](https://github.com/TVSRIDURGA/Temperature-Based-Automatic-Fan-System-NodeMCU-DHT11-/blob/bf7ba43ebc2b48c94d9e3548ee9569e97d4b9d6d/Project%20Demo.mp4)
 
 
 
