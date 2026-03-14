@@ -36,3 +36,50 @@ Libraries used
 
 2.Blynk IoT Platform
 Used to monitor and control IoT devices remotely by sending sensor data to a cloud dashboard through the internet. 🌐📱
+
+⚙️ System Architecture
+DHT11 Sensor → NodeMCU (ESP8266) → WiFi → Blynk Cloud → Dashboard
+                                   ↓
+                               Relay Module
+                                   ↓
+                                  Fan
+
+🔌 Hardware Connections
+| Component      | NodeMCU Pin |
+| -------------- | ----------- |
+| DHT11 Data Pin | D5          |
+| Relay IN       | D2          | 
+| VCC            | 3.3V / 5V   |
+| GND            | GND         |
+
+
+💻 How the System Works
+1.The DHT11 sensor measures temperature and humidity.
+2.NodeMCU reads the sensor data every 2 seconds.
+3.The data is sent to the Blynk cloud platform via WiFi.
+4.The Blynk dashboard displays real-time temperature and humidity.
+5.If the temperature exceeds 30°C, the NodeMCU activates the relay.
+5.The relay turns ON the fan automatically.
+6.When the temperature drops below the threshold, the fan turns OFF.
+
+📱 Blynk Setup
+The Blynk platform is used to visualize sensor data.
+Steps used in the project:
+
+1.Created a template in Blynk Console with hardware set as ESP8266.
+2.Added Datastream V1 for temperature.
+3.Added Datastream V2 for humidity.
+4.Generated Blynk Auth Token.
+5.Added the token in the Arduino code.
+6.Created dashboard widgets:
+->Gauge widget for Temperature
+->Gauge widget for Humidity
+*This allows real-time monitoring of environmental conditions.
+
+1️⃣ Blynk Dashboard Screenshot
+The Blynk IoT platform allows monitoring sensor data from both desktop (web dashboard) and mobile application.
+The screenshots below show real-time temperature and humidity values received from the NodeMCU device.
+
+💻 Laptop Dashboard (Blynk Web Console)
+This dashboard is accessed through the Blynk web console, where users can monitor temperature and humidity values from a laptop or desktop browser.
+
